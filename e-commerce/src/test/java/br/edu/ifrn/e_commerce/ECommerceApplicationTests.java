@@ -1,10 +1,10 @@
-package br.ifrn.edu.ecommerce;
+package br.edu.ifrn.e_commerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EcommerceApplicationTests {
+class ECommerceApplicationTests {
 
 	@Test
 	void contextLoads() {

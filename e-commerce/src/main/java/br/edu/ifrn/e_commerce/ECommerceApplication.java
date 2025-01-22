@@ -1,13 +1,13 @@
-package br.ifrn.edu.ecommerce;
+package br.edu.ifrn.e_commerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EcommerceApplication {
+public class ECommerceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EcommerceApplication.class, args);
+		SpringApplication.run(ECommerceApplication.class, args);
 	}
 
 }
